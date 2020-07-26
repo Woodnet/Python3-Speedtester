@@ -3,7 +3,7 @@
 #Prompt
 
 #Author:
-    #https://woodnet.000webhostapp.com
+    #Pulsar
 
 import speedtest
 import os,time
